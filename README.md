@@ -2,7 +2,7 @@
 Hi,<br>
 My name is **Ismail Alamir**;I am a civil engineer living in _Amman - Jordan_ .<br>
 I’m currently learning Python and looking forward to furthering my understanding of software development.<br>
-contact me by email:
+contact me by email:<br>
 _IsAlAmir@hotmail.com_
 
 
